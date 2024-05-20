@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[0,0,0,3,0],"faceIndex":2,"faceName":"Actor1","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"merc.b","characterIndex":0,"characterName":"Merc","classId":3,"equips":[3,0,0,3,4],"faceIndex":0,"faceName":"Merc","traits":[{"code":51,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Merc","nickname":"","note":"","profile":"El mejor amigo de Harold"},
+{"id":3,"battlerName":"Cura.b","characterIndex":0,"characterName":"Cua.a","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Cura","traits":[],"initialLevel":1,"maxLevel":99,"name":"Murin","nickname":"","note":"","profile":"El cura del castillo"},
+{"id":4,"battlerName":"lala.b","characterIndex":0,"characterName":"lala.a","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"lala","traits":[{"code":43,"dataId":5,"value":1},{"code":51,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1},{"code":62,"dataId":2,"value":1},{"code":11,"dataId":1,"value":1.05}],"initialLevel":99,"maxLevel":99,"name":"Lala","nickname":"","note":"","profile":"Experimentada guerrera"},
+{"id":5,"battlerName":"Seil Almasy.b","characterIndex":0,"characterName":"Seil Almasy","classId":1,"equips":[7,0,0,0,0],"faceIndex":0,"faceName":"Seil Almasy","traits":[],"initialLevel":13,"maxLevel":99,"name":"Seil Almasy","nickname":"Seifer","note":"","profile":"De la forma en que lo veo, mientras sobrevivas en el campo de batalla, estás un paso más cerca de tus sueños.\n—Seifer Almasy"}
+]

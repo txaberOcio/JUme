@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"animationId":29,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Vallesta","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":8},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Hacha","note":"","params":[0,0,10,0,0,0,0,0],"price":300,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Vara","note":"","params":[0,0,3,0,10,0,0,0],"price":200,"wtypeId":6},
+{"id":4,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arco","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":23,"description":"Ideal para pelar una manzana","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Daga","note":"","params":[0,0,3,0,0,0,3,0],"price":25,"wtypeId":1},
+{"id":6,"animationId":3,"description":"Aumenta el daño de tipo fuego","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0.8},{"code":31,"dataId":2,"value":1},{"code":41,"dataId":1,"value":1},{"code":43,"dataId":9,"value":1}],"iconIndex":108,"name":"Vara de ifrit","note":"","params":[0,0,7,0,20,0,0,0],"price":0,"wtypeId":6},
+{"id":7,"animationId":114,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.25}],"iconIndex":112,"name":"Sable Pistola","note":"","params":[0,0,20,0,0,0,5,0],"price":2500,"wtypeId":2},
+{"id":8,"animationId":6,"description":"Una espada normal","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Espada de principiante","note":"","params":[0,0,10,0,0,0,0,0],"price":120,"wtypeId":2},
+{"id":9,"animationId":0,"description":"Un espadon de la antigua gran guerra","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":119,"name":"Espadon","note":"","params":[0,0,20,0,0,0,-5,0],"price":700,"wtypeId":2},
+{"id":10,"animationId":6,"description":"Afilada lanza","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Lanza","note":"","params":[0,0,15,0,0,0,5,0],"price":550,"wtypeId":12},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Garrote","note":"","params":[0,0,300,0,0,0,-15,0],"price":600,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
